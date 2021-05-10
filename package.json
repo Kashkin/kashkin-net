@@ -17,7 +17,7 @@
 	"dependencies": {
 		"@tailwindcss/ui": "^0.3.0",
 		"lazysizes": "^4.1.6",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"tailwindcss": "^1.4.0"
 	},
 	"devDependencies": {
@@ -42,7 +42,7 @@
 		"laravel-mix-purgecss": "^4.2.0",
 		"laravel-mix-svg-sprite": "^1.0.0",
 		"laravel-mix-twig-to-html": "^1.3.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"node-sass": "^4.14.0",
 		"postcss-current-selector": "0.0.3",
 		"postcss-fluid": "^1.3.0",
