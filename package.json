@@ -43,7 +43,7 @@
 		"laravel-mix-svg-sprite": "^1.0.0",
 		"laravel-mix-twig-to-html": "^1.3.0",
 		"lodash": "^4.17.15",
-		"node-sass": "^4.14.0",
+		"node-sass": "^7.0.0",
 		"postcss-current-selector": "0.0.3",
 		"postcss-fluid": "^1.3.0",
 		"postcss-import": "^12.0.1",
